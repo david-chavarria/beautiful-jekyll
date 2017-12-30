@@ -6,7 +6,7 @@ subtitle:
 
 ### David Chavarría-Camacho, Bachelor of Arts
 
-<h4><strong>Education</strong></h4>
+<h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em>
 <strong>University of Costa Rica</strong>
 Master of Arts, History
@@ -45,15 +45,14 @@ San José, Costa Rica
 </tr>
 </tbody>
 </table>
+
 ### Publication Highlights
 
-[authors]: <em>[title]</em>. [details]
-
-  #### Books
+<h4>Books</h4>
 
 David Chavarría-Camacho: <em>Historia de la Editorial Costa Rica (1959-2016)</em>. 01/2017; Editorial Costa Rica., ISBN: 978-9930-519-89-9
 
-  #### Journal Publications
+<h4>Journal Publications</h4>
 
 David Chavarría Camacho: <em>Media coverage representations about renewable energies in Costa Rican newspapers</em>. DOI:10.15517/rcs.v0i153.28171
 
