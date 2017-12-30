@@ -5,7 +5,8 @@ subtitle:
 ---
 
 ### David Chavarría-Camacho, Bachelor of Arts
-
+&emsp;
+&emsp;
 <h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em>
 <strong>University of Costa Rica</strong>
@@ -25,6 +26,7 @@ University of Costa Rica
 San José, Costa Rica
 
 <h4>Skills & Activities</h4>
+&emsp;
 <table>
 <tbody>
 <tr>
@@ -45,6 +47,8 @@ San José, Costa Rica
 </tr>
 </tbody>
 </table>
+&emsp;
+&emsp;
 
 ### Publication Highlights
 
