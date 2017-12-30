@@ -5,13 +5,13 @@ subtitle:
 ---
 ### MSc. David Chavarría-Camacho, Historian
 <h4>Education</h4>
-<em>Mar 2014 – Jul 2017</em>, <strong>University of Costa Rica</strong>, Master of Arts, History (San José, Costa Rica)
+<em>Mar 2014 – Jul 2017</em> - <strong>University of Costa Rica</strong>, Master of Arts, History (San José, Costa Rica)
 
 <h4>Research Experience</h4>
 
-<em>Jan 2015 – present</em>, <strong>University of Costa Rica</strong>, <strong>Centro de Investigaciones Históricas de América Central </strong>, (San José, Costa Rica)
+<em>Jan 2015 – present</em> - University of Costa Rica, <strong>Centro de Investigaciones Históricas de América Central </strong> (San José, Costa Rica)
 
-<em>Jan 2014 – Dec 2014</em>, <strong>University of Costa Rica</strong>, <strong>Centro de Investigaciones Geofísicas (CIGEFI)</strong>, (San José, Costa Rica)
+<em>Jan 2014 – Dec 2014</em>, University of Costa Rica, <strong>Centro de Investigaciones Geofísicas (CIGEFI)</strong> (San José, Costa Rica)
 
 <h4>Skills & Activities</h4>
 <table>
