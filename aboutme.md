@@ -3,7 +3,7 @@ layout: page
 title: CV
 subtitle: 
 ---
-### David Chavarría-Camacho, Bachelor of Arts
+### MSc. David Chavarría-Camacho, Historian
 &emsp;
 <h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em>
