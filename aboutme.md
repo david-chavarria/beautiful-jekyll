@@ -3,7 +3,7 @@ layout: page
 title: CV
 subtitle: 
 ---
-<h3>MSc. David Chavarría-Camacho, Historian</h3>
+<h1>MSc. David Chavarría-Camacho, Historian</h1>
 &emsp;
 <h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em> - <strong>University of Costa Rica</strong>, Master of Arts, History (San José, Costa Rica)
