@@ -11,6 +11,8 @@ Welcome to StackEdit!
 
 Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
 
+![imagen](https://camo.githubusercontent.com/365bcd497df40ccef42446d3413462695e49b8c2/687474703a2f2f73332d6d65646961332e666c2e79656c7063646e2e636f6d2f6270686f746f2f635131596f6137356d327955464662593278777571772f333438732e6a7067)
+
 ----------
 
 
