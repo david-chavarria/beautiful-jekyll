@@ -46,7 +46,6 @@ San José, Costa Rica
 </table>
 &emsp;
 <h2>Publication Highlights</h2>
-&emsp;
 <h4>Books</h4>
 
 David Chavarría-Camacho: <em>Historia de la Editorial Costa Rica (1959-2016)</em>. 01/2017; Editorial Costa Rica., ISBN: 978-9930-519-89-9
