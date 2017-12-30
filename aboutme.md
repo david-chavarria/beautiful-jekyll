@@ -45,7 +45,7 @@ San José, Costa Rica
 </tbody>
 </table>
 &emsp;
-### Publication Highlights
+<h2>Publication Highlights</h2>
 &emsp;
 <h4>Books</h4>
 
