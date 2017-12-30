@@ -4,7 +4,6 @@ title: CV
 subtitle: 
 ---
 ### MSc. David Chavarría-Camacho, Historian
-&emsp;
 <h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em>
 <strong>University of Costa Rica</strong>
