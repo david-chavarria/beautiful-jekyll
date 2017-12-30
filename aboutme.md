@@ -3,9 +3,7 @@ layout: page
 title: CV
 subtitle: 
 ---
-
 ### David Chavarría-Camacho, Bachelor of Arts
-&emsp;
 &emsp;
 <h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em>
@@ -26,7 +24,6 @@ University of Costa Rica
 San José, Costa Rica
 
 <h4>Skills & Activities</h4>
-&emsp;
 <table>
 <tbody>
 <tr>
@@ -48,10 +45,8 @@ San José, Costa Rica
 </tbody>
 </table>
 &emsp;
-&emsp;
-
 ### Publication Highlights
-
+&emsp;
 <h4>Books</h4>
 
 David Chavarría-Camacho: <em>Historia de la Editorial Costa Rica (1959-2016)</em>. 01/2017; Editorial Costa Rica., ISBN: 978-9930-519-89-9
