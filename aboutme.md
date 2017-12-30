@@ -5,10 +5,10 @@ subtitle:
 ---
 ### MSc. David Chavarría-Camacho, Historian
 <h4>Education</h4>
-<em>Mar 2014 – Jul 2017</em>
-<strong>University of Costa Rica</strong>
-Master of Arts, History
-San José, Costa Rica
+<em>Mar 2014 – Jul 2017</em> &nbsp
+<strong>University of Costa Rica</strong> &nbsp
+Master of Arts, History &nbsp
+San José, Costa Rica &nbsp
 
 <h4>Research Experience</h4>
 
