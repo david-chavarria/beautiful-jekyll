@@ -4,16 +4,14 @@ title: CV
 subtitle: 
 ---
 
-David Chavarría-Camacho, Bachelor of Arts
+### David Chavarría-Camacho, Bachelor of Arts
 
-[hr]
 <h4><strong>Education</strong></h4>
 <em>Mar 2014 – Jul 2017</em>
 <strong>University of Costa Rica</strong>
 Master of Arts, History
 San José, Costa Rica
 
-[hr]
 <h4>Research Experience</h4>
 <em>Jan 2015 – present</em>
 University of Costa Rica
@@ -24,8 +22,6 @@ San José, Costa Rica
 University of Costa Rica
 <strong>Centro de Investigaciones Geofísicas (CIGEFI)</strong>
 San José, Costa Rica
-
-[hr]
 
 Awards &amp; Grants
 
@@ -54,13 +50,13 @@ Publication Highlights
 
 [authors]: <em>[title]</em>. [details]
 
-Books
+### Books
 
 David Chavarría-Camacho: <em>Historia de la Editorial Costa Rica (1959-2016)</em>. 01/2017; Editorial Costa Rica., ISBN: 978-9930-519-89-9
 
-Book Chapters
+### Book Chapters
 
-Journal Publications
+### Journal Publications
 
 David Chavarría Camacho: <em>Media coverage representations about renewable energies in Costa Rican newspapers</em>. DOI:10.15517/rcs.v0i153.28171
 
@@ -68,23 +64,6 @@ Ronny Viales-Hurtado, David Chavarría-Camacho, Roberto Araya Chinchilla: <em>Th
 
 Ronny J. Viales-Hurtado, Ana Lucia Calderon-Saravia, David Chavarria-Camacho: <em>Between Matilde and the Internet: Computerizing the University of Costa Rica (1968-1993)</em>. IEEE Annals of the History of Computing 10/2015; 37(4):29-39., DOI:10.1109/MAHC.2015.82
 
-Patents
-
-Conference Proceedings
-
-Technical Reports
-
 &nbsp;
 
 &nbsp;
-
-My name is David Chavarría. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
