@@ -3,7 +3,7 @@ layout: page
 title: CV
 subtitle: 
 ---
-### MSc. David Chavarría-Camacho, Historian
+<h3>MSc. David Chavarría-Camacho, Historian</h3>
 <h4>Education</h4>
 <em>Mar 2014 – Jul 2017</em> - <strong>University of Costa Rica</strong>, Master of Arts, History (San José, Costa Rica)
 
@@ -37,7 +37,7 @@ subtitle:
 </tbody>
 </table>
 &emsp;
-<h2>Publication Highlights</h2>
+<h3>Publication Highlights</h3>
 <h4>Books</h4>
 
 David Chavarría-Camacho: <em>Historia de la Editorial Costa Rica (1959-2016)</em>. 01/2017; Editorial Costa Rica., ISBN: 978-9930-519-89-9
