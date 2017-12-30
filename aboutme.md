@@ -11,6 +11,8 @@ subtitle:
 
 <em>Jan 2015 – present</em> - University of Costa Rica, <strong>Centro de Investigaciones Históricas de América Central </strong> (San José, Costa Rica)
 
+<em>Feb 2016 – Aug 2016</em> - National Autonomous University of Mexico, <strong>Instituto de Investigaciones Sociales (IIS-UNAM) </strong> (Mexico City, Mexico)
+
 <em>Jan 2014 – Dec 2014</em>, University of Costa Rica, <strong>Centro de Investigaciones Geofísicas (CIGEFI)</strong> (San José, Costa Rica)
 
 <h4>Skills & Activities</h4>
