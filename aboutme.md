@@ -24,7 +24,7 @@ University of Costa Rica
 <strong>Centro de Investigaciones Geofísicas (CIGEFI)</strong>
 San José, Costa Rica
 
-Skills &amp; Activities
+<h4>Skills & Activities</h4>
 <table>
 <tbody>
 <tr>
