@@ -5,7 +5,7 @@ subtitle:
 ---
 <h2>MSc. David Chavarría-Camacho, Historian</h2>
 &emsp;
-![](https://raw.githubusercontent.com/david-chavarria/david-chavarria.github.io/master/img/profile.jpg)
+<p align="center">![](https://raw.githubusercontent.com/david-chavarria/david-chavarria.github.io/master/img/profile.jpg)</p>
 &emsp;
 <h3>Education</h3>
 
