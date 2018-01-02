@@ -5,7 +5,8 @@ subtitle:
 ---
 <h2>MSc. David Chavarría-Camacho, Historian</h2>
 &emsp;
-![imagen](https://github.com/david-chavarria/david-chavarria.github.io/blob/master/img/profile.jpg)
+![Image](https://github.com/david-chavarria/david-chavarria.github.io/blob/master/img/profile.jpg)
+&emsp;
 <h3>Education</h3>
 
 <em>Mar 2014 – Jul 2017</em> - <strong>University of Costa Rica</strong>, Master of Arts, History (San José, Costa Rica)
