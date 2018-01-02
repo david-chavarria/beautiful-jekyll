@@ -10,6 +10,7 @@ subtitle:
 <h3>Education</h3>
 
 <em>Mar 2014 – Jul 2017</em> - <strong>University of Costa Rica (UCR)</strong>, Master of Arts, History (San José, Costa Rica)
+
 <em>Feb 2005 – Oct 2007</em> - <strong>Costa Rica Institute of Technology (ITCR)</strong>, Associate Degree, Electronics (Cartago, Costa Rica)
 
 <h3>Research Experience</h3>
