@@ -3,7 +3,7 @@ layout: page
 title: CV
 subtitle: 
 ---
-<h2>MSc. David Chavarría-Camacho, Historian</h2>
+<h2>David Chavarría-Camacho, Historian</h2>
 &emsp;
   ![](https://raw.githubusercontent.com/david-chavarria/david-chavarria.github.io/master/img/profile.jpg)
 &emsp;
