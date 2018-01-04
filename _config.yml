@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: <code>data</code> <b>historia</b>
+title: historia<var>+</var><code>data</code> 
 
 # Short description of your site
 description: blog de historia digital centroamericana
@@ -23,7 +23,7 @@ description: blog de historia digital centroamericana
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "aboutme"
+  David Chavarría-Camacho: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://davidchavarria.com"
    # - Learn markdown: "https://davidchavarria.com"
