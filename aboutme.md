@@ -26,11 +26,11 @@ subtitle:
 <tbody>
 <tr>
 <td width="151"><em>Skills</em></td>
-<td width="490">History of Technology, History and Philosophy of Science, Science, Technology &amp; Society Studies (STS), Social Network Analysis, History of Science, Digital Humanities, Digital Humanities and Archiving, Spatial Humanities, Environmental History, Renewable Energy Technologies, Social History, Geographic Information System</td>
+<td width="490">History of Technology, History and Philosophy of Science, Science, Technology &amp; Society Studies (STS), Social Network Analysis, Digital Humanities and Archiving, Spatial Humanities, Environmental History, Renewable Energy Technologies, Social History, Economic History, Geographic Information System</td>
 </tr>
 <tr>
 <td width="151"><em>Languages</em></td>
-<td width="490">English, Portuguese</td>
+<td width="490">English</td>
 </tr>
 <tr>
 <td width="151"><em>Scientific Memberships</em></td>
