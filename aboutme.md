@@ -34,7 +34,7 @@ subtitle:
 </tr>
 <tr>
 <td width="151"><em>Scientific Memberships</em></td>
-<td width="490">Sociedad Latinoamericana de Estudios Sociales de la Ciencia y la Tecnología (ESOCITE), Sociedad Latinoamericana y Caribeña de Historia Ambiental (SOLCHA), Red de Estudios Sociales de la Ciencia, la Tecnología y la Innovación (RESOCTI)</td>
+<td width="490">Sociedad Latinoamericana de Estudios Sociales de la Ciencia y la Tecnología (ESOCITE); Sociedad Latinoamericana y Caribeña de Historia Ambiental (SOLCHA); Red de Estudios Sociales de la Ciencia, la Tecnología y la Innovación (RESOCTI)</td>
 </tr>
 <tr>
 <td width="151"><em>Interests</em></td>
