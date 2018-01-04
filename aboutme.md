@@ -1,6 +1,6 @@
 ---
 layout: page
-title: David Chavarría-Camacho
+title: CV
 subtitle: 
 ---
 <h2>David Chavarría-Camacho, Historian</h2>
