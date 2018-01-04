@@ -38,7 +38,7 @@ subtitle:
 </tr>
 <tr>
 <td width="151"><em>Interests</em></td>
-<td width="490">Web design, blogging, hacking, data mining, travels</td>
+<td width="490">Web design, blogging, hacking, data mining, wine, travels</td>
 </tr>
 </tbody>
 </table>
