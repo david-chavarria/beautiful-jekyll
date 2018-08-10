@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: historia <code>data</code> 
+title: historia+data 
 
 # Short description of your site
-description: blog de historia digital centroamericana
+description: laboratorio de historia digital
 
 # --- Navigation bar options --- #
 
@@ -59,7 +59,7 @@ author:
   email: "davidcc86@gmail.com"
   facebook: DawudArtCha  # eg. daattali
   github: david-chavarria    # eg. daattali
-  twitter: ckamach   # eg. daattali
+  twitter: davidchavarria_   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
