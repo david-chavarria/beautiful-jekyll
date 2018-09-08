@@ -108,7 +108,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #24292e;
+  background: #1b222b;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
