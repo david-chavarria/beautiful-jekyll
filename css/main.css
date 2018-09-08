@@ -170,7 +170,7 @@ img {
     padding: 0;
   }
 }
-
+/*
 .navbar-custom .avatar-container { 
   opacity: 1;
   position: absolute;
@@ -221,6 +221,7 @@ img {
     width: 100%;
   }
 }
+*/
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
