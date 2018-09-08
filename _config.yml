@@ -23,7 +23,7 @@ description: laboratorio de historia digital
 
 # List of links in the navigation bar
 navbar-links:
-  David Chavarría-Camacho: "aboutme"
+  El autor: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://davidchavarria.com"
    # - Learn markdown: "https://davidchavarria.com"
@@ -104,7 +104,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "davidchavarria.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "blog.historiadata.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
